@@ -16,6 +16,16 @@ namespace APIs.Repositories
 
         public int AddDepartment(Department department)
         {
+            // Get the count of existing departments
+            int departmentCount = _myContext.Departments.Count();
+
+            // Generate the next department ID based on the count
+            string newDepartmentId = $"D{departmentCount + 1:D3}";
+
+            // Set the new department ID for the department being added
+            department.Dept_ID = newDepartmentId;
+
+            // Add the department to the database and save changes
             _myContext.Departments.Add(department);
             return _myContext.SaveChanges();
         }

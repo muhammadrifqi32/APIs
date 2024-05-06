@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\bc infinix april 2024\\APIs\\Clients\\Clients.csproj": {}
+    "C:\\Users\\rifqi.muhammad\\source\\repos\\APIs\\Clients\\Clients.csproj": {}
   },
   "projects": {
-    "G:\\bc infinix april 2024\\APIs\\Clients\\Clients.csproj": {
+    "C:\\Users\\rifqi.muhammad\\source\\repos\\APIs\\Clients\\Clients.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\bc infinix april 2024\\APIs\\Clients\\Clients.csproj",
+        "projectUniqueName": "C:\\Users\\rifqi.muhammad\\source\\repos\\APIs\\Clients\\Clients.csproj",
         "projectName": "Clients",
-        "projectPath": "G:\\bc infinix april 2024\\APIs\\Clients\\Clients.csproj",
+        "projectPath": "C:\\Users\\rifqi.muhammad\\source\\repos\\APIs\\Clients\\Clients.csproj",
         "packagesPath": "C:\\Users\\rifqi.muhammad\\.nuget\\packages\\",
-        "outputPath": "G:\\bc infinix april 2024\\APIs\\Clients\\obj\\",
+        "outputPath": "C:\\Users\\rifqi.muhammad\\source\\repos\\APIs\\Clients\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rifqi.muhammad\\AppData\\Roaming\\NuGet\\NuGet.Config",

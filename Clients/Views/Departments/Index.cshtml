@@ -2,7 +2,9 @@
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/DataTablesLayout.cshtml";
 }
-
+@section href{
+    <link href="https://cdn.jsdelivr.net/npm/sweetalert2@11.10.8/dist/sweetalert2.min.css" rel="stylesheet">
+}
 <section class="content">
     <div class="container-fluid">
         <div class="row">
@@ -21,7 +23,7 @@
                             <div class="modal-dialog" role="document">
                                 <div class="modal-content">
                                     <div class="modal-header">
-                                        <h5 class="modal-title" id="insertModalLabel">Insert New Department</h5>
+                                        <h5 class="modal-title" id="insertModalLabel">Department</h5>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                             <span aria-hidden="true">&times;</span>
                                         </button>
@@ -29,8 +31,7 @@
                                     <div class="modal-body">
                                         <form>
                                             <div class="form-group">
-                                                <label for="inputDeptId">Department Id</label>
-                                                <input type="text" class="form-control" id="inputDeptId">
+                                                <input type="text" class="form-control" id="inputDeptId" hidden>
                                             </div>
                                             <div class="form-group">
                                                 <label for="inputDeptInitial">Department Initial</label>
@@ -43,8 +44,8 @@
                                         </form>
                                     </div>
                                     <div class="modal-footer">
-                                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                                        <button type="button" class="btn btn-primary" data-dismiss="modal" onclick="Save()">Save changes</button>
+                                        <button id="Edit" type="button" class="btn btn-warning" data-dismiss="modal" onclick="Edit()">Edit</button>
+                                        <button id="Save" type="button" class="btn btn-primary" data-dismiss="modal" onclick="Save()">Save</button>
                                     </div>
                                 </div>
                             </div>
@@ -77,15 +78,10 @@
     <script src="~/adminlte-3.2.0/plugins/datatables-responsive/js/responsive.bootstrap4.min.js"></script>
     <script src="~/adminlte-3.2.0/plugins/datatables-buttons/js/dataTables.buttons.min.js"></script>
     <script src="~/adminlte-3.2.0/plugins/datatables-buttons/js/buttons.bootstrap4.min.js"></script>
-    <script src="~/adminlte-3.2.0/plugins/jszip/jszip.min.js"></script>
-    <script src="~/adminlte-3.2.0/plugins/pdfmake/pdfmake.min.js"></script>
-    <script src="~/adminlte-3.2.0/plugins/pdfmake/vfs_fonts.js"></script>
-    <script src="~/adminlte-3.2.0/plugins/datatables-buttons/js/buttons.html5.min.js"></script>
-    <script src="~/adminlte-3.2.0/plugins/datatables-buttons/js/buttons.print.min.js"></script>
-    <script src="~/adminlte-3.2.0/plugins/datatables-buttons/js/buttons.colVis.min.js"></script>
     <!-- AdminLTE App -->
     <script src="~/adminlte-3.2.0/dist/js/adminlte.min.js"></script>
     <!-- AdminLTE for demo purposes -->
     <!-- Page specific script -->
     <script src="~/js/departmentscript.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.10.8/dist/sweetalert2.all.min.js"></script>
 }

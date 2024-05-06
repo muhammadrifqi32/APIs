@@ -9,45 +9,45 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Clients
 build_property.RootNamespace = Clients
-build_property.ProjectDir = G:\bc infinix april 2024\APIs\Clients\
+build_property.ProjectDir = C:\Users\rifqi.muhammad\source\repos\APIs\Clients\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = G:\bc infinix april 2024\APIs\Clients
+build_property.MSBuildProjectDirectory = C:\Users\rifqi.muhammad\source\repos\APIs\Clients
 build_property._RazorSourceGeneratorDebug = 
 
-[G:/bc infinix april 2024/APIs/Clients/Views/Departments/Index.cshtml]
+[C:/Users/rifqi.muhammad/source/repos/APIs/Clients/Views/Departments/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/bc infinix april 2024/APIs/Clients/Views/Home/Index.cshtml]
+[C:/Users/rifqi.muhammad/source/repos/APIs/Clients/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/bc infinix april 2024/APIs/Clients/Views/Home/Privacy.cshtml]
+[C:/Users/rifqi.muhammad/source/repos/APIs/Clients/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/bc infinix april 2024/APIs/Clients/Views/Shared/DataTablesLayout.cshtml]
+[C:/Users/rifqi.muhammad/source/repos/APIs/Clients/Views/Shared/DataTablesLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERhdGFUYWJsZXNMYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/bc infinix april 2024/APIs/Clients/Views/Shared/Error.cshtml]
+[C:/Users/rifqi.muhammad/source/repos/APIs/Clients/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/bc infinix april 2024/APIs/Clients/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/rifqi.muhammad/source/repos/APIs/Clients/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/bc infinix april 2024/APIs/Clients/Views/_ViewImports.cshtml]
+[C:/Users/rifqi.muhammad/source/repos/APIs/Clients/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/bc infinix april 2024/APIs/Clients/Views/_ViewStart.cshtml]
+[C:/Users/rifqi.muhammad/source/repos/APIs/Clients/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/bc infinix april 2024/APIs/Clients/Views/Shared/_Layout.cshtml]
+[C:/Users/rifqi.muhammad/source/repos/APIs/Clients/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-c992ss80nw

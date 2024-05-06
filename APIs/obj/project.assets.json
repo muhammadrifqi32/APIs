@@ -7449,11 +7449,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\bc infinix april 2024\\APIs\\APIs\\APIs.csproj",
+      "projectUniqueName": "C:\\Users\\rifqi.muhammad\\source\\repos\\APIs\\APIs\\APIs.csproj",
       "projectName": "APIs",
-      "projectPath": "G:\\bc infinix april 2024\\APIs\\APIs\\APIs.csproj",
+      "projectPath": "C:\\Users\\rifqi.muhammad\\source\\repos\\APIs\\APIs\\APIs.csproj",
       "packagesPath": "C:\\Users\\rifqi.muhammad\\.nuget\\packages\\",
-      "outputPath": "G:\\bc infinix april 2024\\APIs\\APIs\\obj\\",
+      "outputPath": "C:\\Users\\rifqi.muhammad\\source\\repos\\APIs\\APIs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rifqi.muhammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
